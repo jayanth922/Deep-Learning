@@ -1,0 +1,137 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  #root {
+    width: 100%;
+    max-width: 600px;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+  }
+
+  #root:hover {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  }
+
+  h1, h2 {
+    text-align: center;
+    color: #333;
+  }
+
+  .form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+
+  .form-container input[type="text"], .form-container input[type="number"], .form-container select, .form-container button {
+    margin: 5px;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+    transition: border-color 0.3s ease;
+  }
+
+  .form-container input[type="text"]:focus, .form-container input[type="number"]:focus, .form-container select:focus {
+    border-color: #007bff;
+  }
+
+  .form-container button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  .form-container button:hover {
+    background-color: #218838;
+  }
+
+  .filter-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+
+  .filter-container select {
+    width: 200px;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+    transition: border-color 0.3s ease;
+  }
+
+  .filter-container select:focus {
+    border-color: #007bff;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  li {
+    background: #f8f9fa;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: background-color 0.3s ease;
+  }
+
+  li:hover {
+    background-color: #e9ecef;
+  }
+
+  .delete-btn {
+    background-color: #dc3545;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  .delete-btn:hover {
+    background-color: #c82333;
+  }
+
+  .edit-btn {
+    background-color: #007bff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  .edit-btn:hover {
+    background-color: #0056b3;
+  }
+
+  .expense-details {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .expense-details span {
+    margin: 2px 0;
+  }
+
+  .total {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #555;
+  }
