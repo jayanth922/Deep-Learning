@@ -4,3 +4,5 @@ In colab, i interacted with deepseek januspro multimodal through huggingface spa
 2. Given an image, explaining the image in detail.
 
 It performed both the tasks well and you can see its responses in the notebook. I have also attached the image it explained.
+
+Youtube Link : https://youtu.be/bW9Pz5G61ms
