@@ -12,3 +12,4 @@ I asked it to create a simple full stack application (game) and it initially cam
 
 I also attached the chat history with it.
 
+for this task, i used google's gemini 2.0 flash experimental model
