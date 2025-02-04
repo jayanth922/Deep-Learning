@@ -11,3 +11,4 @@ we can also build our own modes.
 I asked it to create a simple full stack application (game) and it initially came up with a number guessing game. When i asked it to generate a complex game, it came up with tic tac toe.
 
 I also attached the chat history with it.
+
