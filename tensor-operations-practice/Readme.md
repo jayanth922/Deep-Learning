@@ -11,9 +11,6 @@ This repository contains interactive Colab notebooks that explore a variety of t
   - [Key Features](#key-features-pytorch)
   - [Usage](#usage-pytorch)
 - [Additional Tensor Operations](#additional-tensor-operations)
-- [References](#references)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
