@@ -12,6 +12,16 @@ This repository contains interactive Colab notebooks that explore a variety of t
   - [Usage](#usage-pytorch)
 - [Additional Tensor Operations](#additional-tensor-operations)
 
+
+## Tensorflow:
+- Colab Link : https://colab.research.google.com/drive/1msfTURQspK8xCV_-sYcu4-fDSPqHy5t9?usp=sharing
+- Youtube Link : https://youtu.be/86gknS9tDvI
+
+## Pytorch:
+- Colab Link : https://colab.research.google.com/drive/1oxgkFPUJS_Gl2-fojQXm7GsexABIwlSm?usp=sharing
+- Youtube Link : https://youtu.be/1aonMrW2-bA
+
+
 ## Overview
 
 Tensors are the fundamental building blocks in deep learning, enabling efficient data manipulation and computation. This project provides:
@@ -64,10 +74,3 @@ Both notebooks also explore:
 - **Einops Library:** (in PyTorch) for expressive tensor dimension reordering ([einops examples](https://einops.rocks/pytorch-examples.html)).
 
 
-Tensorflow:
-- Colab Link : https://colab.research.google.com/drive/1msfTURQspK8xCV_-sYcu4-fDSPqHy5t9?usp=sharing
-- Youtube Link : https://youtu.be/86gknS9tDvI
-
-Pytorch:
-- Colab Link : https://colab.research.google.com/drive/1oxgkFPUJS_Gl2-fojQXm7GsexABIwlSm?usp=sharing
-- Youtube Link : https://youtu.be/1aonMrW2-bA
