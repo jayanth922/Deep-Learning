@@ -62,3 +62,12 @@ Both notebooks also explore:
 - **Advanced Indexing & Slicing:** Fine-grained control over tensor elements.
 - **Custom Operations:** Using functions like TensorFlow's `map_fn` or PyTorch's custom functions to extend operations.
 - **Einops Library:** (in PyTorch) for expressive tensor dimension reordering ([einops examples](https://einops.rocks/pytorch-examples.html)).
+
+
+Tensorflow:
+- Colab Link : https://colab.research.google.com/drive/1msfTURQspK8xCV_-sYcu4-fDSPqHy5t9?usp=sharing
+- Youtube Link : https://youtu.be/86gknS9tDvI
+
+Pytorch:
+- Colab Link : https://colab.research.google.com/drive/1oxgkFPUJS_Gl2-fojQXm7GsexABIwlSm?usp=sharing
+- Youtube Link : https://youtu.be/1aonMrW2-bA
