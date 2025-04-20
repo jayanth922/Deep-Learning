@@ -31,11 +31,11 @@ Each prototype includes:
 ---
 
 
-# Image and Audio Classifier:
+## Image and Audio Classifier:
 - Colab Link : https://colab.research.google.com/drive/1-uU79vg8dWRycC1DS0c-tz01Zl_SwZ-v?usp=sharing
 - Youtube Link : https://youtu.be/SFPGHHv8898
 
-# Pose Classifier:
+## Pose Classifier:
 - Colab Link : https://colab.research.google.com/drive/1SydO1bz4baJruvKGq5TZ0Pan3hpBsMy3?usp=sharing
 - Youtube Link : https://youtu.be/MU6UC9LMDF0
 
