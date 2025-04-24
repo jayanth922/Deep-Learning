@@ -8,4 +8,5 @@ This repository contains two Colab notebooks demonstrating advanced neural netwo
 - **Part 2: Advanced Keras Constructs**  
   Implements custom learning‐rate schedulers, losses & metrics (Huber), layers & constraints, residual blocks/models, and a fully manual SGD+Momentum training loop to avoid Keras 3 optimizer slot issues.
 
-## Colab Link : https://colab.research.google.com/drive/1mUlE5dG9RLL72xs0IdTI-dz0oWMvkjO3?usp=sharing
+Colab Link : https://colab.research.google.com/drive/1mUlE5dG9RLL72xs0IdTI-dz0oWMvkjO3?usp=sharing
+Youtube Link : https://youtu.be/_aj19D0WsOg
