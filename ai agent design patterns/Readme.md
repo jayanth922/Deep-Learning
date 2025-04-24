@@ -14,4 +14,5 @@ Each notebook implements the same set of artefacts—
 6 ∙ Evaluator‑Optimizer  
 7 ∙ ReAct Agent (Autonomous loop)
 
-## Colab Link : https://colab.research.google.com/drive/1o6c1hxLFBelYULFwemMdPPPICGPSN9_y?usp=sharing
+- Colab Link : https://colab.research.google.com/drive/1o6c1hxLFBelYULFwemMdPPPICGPSN9_y?usp=sharing
+- Youtube Link : https://youtu.be/iimXMQdcYAI
