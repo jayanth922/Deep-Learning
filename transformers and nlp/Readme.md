@@ -6,5 +6,5 @@
 - **02 – Fine Tune Backbone** : Fine-tune DistilBERT (or BERT-base) on an IMDB subset
 - **03 – Transformer From Scratch** : Build & train a 2-layer mini-Transformer (~150 k params)
 
-- Colab Link :
+- Colab Link : https://colab.research.google.com/drive/1XSOqSZuPlcVba_B7KjjxRFMIBEaWAZNZ?usp=sharing
 - Youtube Link : 
