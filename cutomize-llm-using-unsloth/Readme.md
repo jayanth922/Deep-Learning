@@ -15,31 +15,31 @@ The codebase strictly follows official [Unsloth documentation](https://docs.unsl
 
 Task A:
 - Colab link : https://colab.research.google.com/drive/1WsArevP3SMxagkNOB7R3mgIRVzHRJfOs?usp=sharing
-- Youtube link : 
+- Youtube link : https://youtu.be/S0p5QCAJhig
 
 Task B:
 - Colab link : https://colab.research.google.com/drive/1Bh456dJ5tctXH8RcWSveNKv8VOd_dAcQ?usp=sharing
-- Youtube link : 
+- Youtube link : https://youtu.be/qALH0DU7KLE
 
 Task C:
 - colab link : https://colab.research.google.com/drive/1PPg-FKmnu8kWpwnjFSzjb4zZmryE1mAX?usp=sharing
-- youtube link :
+- youtube link : https://youtu.be/vUnXB1iSoxA
 
 Task D:
 - colab link : https://colab.research.google.com/drive/1F5CR8cZDdjbq3-DATHnVKwHQAm235Krx?usp=sharing
-- youtube link :
+- youtube link : https://youtu.be/VCI_2BURrjo
 
 Task E:
 - colab link : https://colab.research.google.com/drive/1NnFB8pqy65Ymd8_e-x1xsgT6dbV2sgCB?usp=sharing
-- youtube link :
+- youtube link : https://youtu.be/EQkSmfA-F7M
 
 Task F:
 - colab link : https://colab.research.google.com/drive/1mRhJcydJcYZTGeRwIEnkHCaxRaQM3XQO?usp=sharing
-- youtube link :
+- youtube link : https://youtu.be/Mq0MjkkbZfE
 
 Task G:
 - colab link : https://colab.research.google.com/drive/1eijNfRMvAQNwBXk6N5_D96lNTn61Xe75?usp=sharing
-- youtube link : 
+- youtube link : https://youtu.be/9xBTBJS9KUo
 
 ## 🚀 Project Tasks Breakdown
 
