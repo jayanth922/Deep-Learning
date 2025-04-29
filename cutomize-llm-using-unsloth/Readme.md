@@ -11,7 +11,21 @@ from simple supervised fine-tuning to advanced DPO/ORPO reward modeling, continu
 
 The codebase strictly follows official [Unsloth documentation](https://docs.unsloth.ai/), ensuring production-grade best practices.
 
----
+
+
+## 🚀 Project Tasks Breakdown
+
+| Task | Description
+|:---|:---
+| Task A | **Supervised Finetuning** on Llama 3.1 or TinyLlama using a lightweight instruction dataset
+| Task B | **Continued Pretraining** to teach the model a new language or domain knowledge
+| Task C | **Chat Template Finetuning**: Conversational chat, classification, max context extension, multi-tasking
+| Task D | **Reward Modeling**: DPO and ORPO training for preference alignment
+| Task E | **Continued Finetuning from Custom Checkpoint** after partial training
+| Task F | **Finetune a Mental Health Chatbot** using Phi-3 and Unsloth for development use cases
+| Task G | **Export Finetuned Models to Ollama** format for easy local inference and deployment
+
+
 
 Task A:
 - Colab link : https://colab.research.google.com/drive/1WsArevP3SMxagkNOB7R3mgIRVzHRJfOs?usp=sharing
@@ -41,19 +55,7 @@ Task G:
 - colab link : https://colab.research.google.com/drive/1eijNfRMvAQNwBXk6N5_D96lNTn61Xe75?usp=sharing
 - youtube link : https://youtu.be/9xBTBJS9KUo
 
-## 🚀 Project Tasks Breakdown
 
-| Task | Description
-|:---|:---
-| Task A | **Supervised Finetuning** on Llama 3.1 or TinyLlama using a lightweight instruction dataset
-| Task B | **Continued Pretraining** to teach the model a new language or domain knowledge
-| Task C | **Chat Template Finetuning**: Conversational chat, classification, max context extension, multi-tasking
-| Task D | **Reward Modeling**: DPO and ORPO training for preference alignment
-| Task E | **Continued Finetuning from Custom Checkpoint** after partial training
-| Task F | **Finetune a Mental Health Chatbot** using Phi-3 and Unsloth for development use cases
-| Task G | **Export Finetuned Models to Ollama** format for easy local inference and deploymen
-
----
 
 ## 🛠️ Technologies Used
 
