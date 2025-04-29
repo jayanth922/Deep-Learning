@@ -11,7 +11,7 @@ from simple supervised fine-tuning to advanced DPO/ORPO reward modeling, continu
 
 The codebase strictly follows official [Unsloth documentation](https://docs.unsloth.ai/), ensuring production-grade best practices.
 
-
+---
 
 ## 🚀 Project Tasks Breakdown
 
@@ -25,7 +25,7 @@ The codebase strictly follows official [Unsloth documentation](https://docs.unsl
 | Task F | **Finetune a Mental Health Chatbot** using Phi-3 and Unsloth for development use cases
 | Task G | **Export Finetuned Models to Ollama** format for easy local inference and deployment
 
-
+---
 
 Task A:
 - Colab link : https://colab.research.google.com/drive/1WsArevP3SMxagkNOB7R3mgIRVzHRJfOs?usp=sharing
@@ -55,7 +55,7 @@ Task G:
 - colab link : https://colab.research.google.com/drive/1eijNfRMvAQNwBXk6N5_D96lNTn61Xe75?usp=sharing
 - youtube link : https://youtu.be/9xBTBJS9KUo
 
-
+---
 
 ## 🛠️ Technologies Used
 
